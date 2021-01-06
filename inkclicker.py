@@ -25,12 +25,6 @@ class clicker_settings:
     cooldown_mode = sword
 
 
-def also_sprint():
-    """Sprint on click."""
-    if inksprint.sprint_settings.toggled:
-        pydirectinput.keyDown(inksprint.sprint_settings.sprint_button)
-
-
 class clicker(threading.Thread):
     def __init__(self):
         super().__init__()
