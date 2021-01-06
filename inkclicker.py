@@ -2,7 +2,6 @@ import pydirectinput
 import random
 from time import sleep
 import threading
-import inksprint
 
 
 def toggle_ac():
