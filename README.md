@@ -4,6 +4,7 @@ Basically an autoclicker (+ external autosprint for minecraft) made in python3
 Run inkgui.py
 
 Minecraft sprint keybind must be bound to a letter, not ctrl (the default)
+Other keybinds also must be letters.
 ### Installation
 Install the dependencies (and python, duh)
 ```
